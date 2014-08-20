@@ -12,5 +12,5 @@
  * @author NaGu
  */
 class app {
-    //put your code here
+	private $array_de_cosas = array();
 }
